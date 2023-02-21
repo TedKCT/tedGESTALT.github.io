@@ -7,4 +7,4 @@
 {"name" :"individual_non_binary_R3_final.json", "tree_file" :"./tree_data/individual_non_binary_R3_final.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 500, "endRegion":600},
 {"name" :"test.json", "tree_file" :"./tree_data/test.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 500, "endRegion":600},
 {"name" :"test2.json", "tree_file" :"./tree_data/test2.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 1, "endRegion":600},
-{"name" :"scGESTALT_36hpf1h_lowerjaw_nowhite.json", "tree_file" :"./tree_data/scGESTALT_36hpf1h_lowerjaw_nowhite.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 500, "endRegion":600}]
+{"name" :"scGESTALT_36hpf1h_lowerjaw_nowhite.json", "tree_file" :"./tree_data/scGESTALT_36hpf1h_lowerjaw_nowhite.json","height":12000, "barheight": 5, "width": 800, "startRegion" : 1, "endRegion":600}]
